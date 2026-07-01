@@ -94,3 +94,8 @@ Created and maintained by **Chibueze Ogbonna** as part of a continuous learning 
 
 ## Learning Journey
 This project is being developed incrementally as part of my DevOps and Software Engineering learning journey. Each completed course contributes new features, tools, and improvements to the project.
+
+## Installation
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Follow the setup instructions as the project evolves.
