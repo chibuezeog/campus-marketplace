@@ -1,14 +1,13 @@
-Campus Marketplace
+# Campus Marketplace
 
-A DevOps portfolio project documenting the complete software development lifecycle.
+A DevOps portfolio project that follows the complete software development lifecycle.
 
-Current Stage
-✔ Agile Planning
+## Current Stage
+- Agile Planning
 
-Future Stages
-□ Python REST API
-□ Unit Testing
-□ Docker
-□ GitHub Actions CI/CD
-□ Cloud Deployment
-□ Monitoring
+## Planned Features
+- Product catalog
+- Cloud deployment
+- CI/CD pipeline
+- Docker containerization
+- AWS hosting
