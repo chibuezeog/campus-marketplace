@@ -99,3 +99,5 @@ This project is being developed incrementally as part of my DevOps and Software 
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Follow the setup instructions as the project evolves.
+
+## MIT
