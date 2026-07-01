@@ -92,3 +92,5 @@ This repository will grow throughout my DevOps learning journey.
 
 Created and maintained by **Chibueze Ogbonna** as part of a continuous learning journey in DevOps and Software Engineering.
 
+## Learning Journey
+This project is being developed incrementally as part of my DevOps and Software Engineering learning journey. Each completed course contributes new features, tools, and improvements to the project.
