@@ -113,3 +113,5 @@ This project is being developed through IBM DevOps courses.
 - Linux commands
 - Docker
 - CI/CD
+
+Edited.
