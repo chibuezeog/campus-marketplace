@@ -106,7 +106,7 @@ This project is being developed incrementally as part of my DevOps and Software 
 
 
 ## Learning Journey
-This project is being developed through IBM DevOps courses.
+This project is being developed to strengthen my DevOps engineering portfolio.
 
 ## Roadmap
 - Git mastery
