@@ -1,6 +1,6 @@
 # Campus Marketplace
 
-A portfolio project that demonstrates the complete software development lifecycle using Agile methodologies and DevOps practices.
+Campus Marketplace is my first DevOps portfolio project.
 
 ## Project Overview
 
