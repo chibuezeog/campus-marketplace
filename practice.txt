@@ -1,3 +1,1 @@
 This text is being typed for me to practice github.
-
-modified text to ensure that the commit works.
