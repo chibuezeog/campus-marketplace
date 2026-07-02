@@ -1,6 +1,8 @@
 # Campus Marketplace
 
-A portfolio project that demonstrates the complete software development lifecycle using Agile methodologies and DevOps practices.
+
+Campus Marketplace is my first DevOps portfolio project.
+
 
 ## Project Overview
 
@@ -106,10 +108,13 @@ This project is being developed incrementally as part of my DevOps and Software 
 
 
 ## Learning Journey
-This project is being developed through IBM DevOps courses.
+This project demonstrates practical DevOps skills through hands-on development.
 
 ## Roadmap
 - Git mastery
 - Linux commands
 - Docker
 - CI/CD
+ 
+ text to modify README
+ 
