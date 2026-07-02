@@ -114,4 +114,4 @@ This project is being developed through IBM DevOps courses.
 - Docker
 - CI/CD
 
-
+Documenting the commit message.
